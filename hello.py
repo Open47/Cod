@@ -1,1 +1,1 @@
-print("Hello World from workspace B!")
+print("Hello from A: conflict demo")
